@@ -7,3 +7,5 @@ Translators
 
 Proofreading
 ------------
+- Russian
+    - Николай Ткачев
