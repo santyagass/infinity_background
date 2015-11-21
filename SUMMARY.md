@@ -5,4 +5,4 @@
 * [Miyamoto Mushashi](miyamoto_musashi.md)
 * [Saladin](saladin.md)
 * [Sun Tze](sun_tze.md)
-* [Благодарности](AUTORS.md)
+* [Благодарности](AUTHORS.md)
