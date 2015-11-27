@@ -1,4 +1,5 @@
 “Draw near, that you may meet your doom the sooner” Achilles in the Iliad, Book XX
+«Ближе приди, да скорее дойдешь к роковому пределу!» Ахилес, Илиада, Песнь ХХ.
 
 “The situation, in short, is this. I have just destroyed your escape module. You are trapped inside here with me. I am Achilles. And you are dead already.” Achilles, Second Ghost Conflict. Unauthenticated record, probable origin: Nomads Black Propaganda.
 
