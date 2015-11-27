@@ -1,11 +1,12 @@
 “Draw near, that you may meet your doom the sooner” Achilles in the Iliad, Book XX
+
 «Ближе приди, да скорее дойдешь к роковому пределу!» Ахилес, Илиада, Песнь ХХ.
 
 “The situation, in short, is this. I have just destroyed your escape module. You are trapped inside here with me. I am Achilles. And you are dead already.” Achilles, Second Ghost Conflict. Unauthenticated record, probable origin: Nomads Black Propaganda.
 
 Achilles, the transliteration of Αχιλλεύς or Achileýs, was the greatest Greek hero, the finest of all warriors. Son of the Nereid, Thetis, and of Peleus, king of the Myrmidons of Phthia, in Thessaly, he was trained by a Phoenix and by the centaur Chiron. He took part in the Siege of Troy, in which his involvement was decisive, and was immortalized by Homer as the main character of the Iliad.
 
-Ахиллес (транслитерация от Αχιλλεύς или Achileýs) был величайшим греческим героем, самым блистательным из всех войнов. Сын морской нимфы  Фетиды и Пелея, властитель мирмидонов  Фтии в Фессалии, его тренировали Феникс и кентавр Хирон. Он принимал участие в осаде Трои, в которой его участие было решающим, и был увековечен Гомером как главный герой Иллиады.
+Ахиллес (транслитерация от Αχιλλεύς или Achileýs) был величайшим греческим героем, самым блистательным из всех войнов. Сын морской нимфы  Фетиды и Пелея, властитель мирмидонов  Фтии в Фессалии, его тренировали Феникс и кентавр Хирон. Он принимал участие в осаде Трои, в которой его участие было решающим, и был увековечен Гомером как главный герой Илиады.
 
 The experimental Project ‘Warrior’ was developed by ALEPH to offer the great powers a biosynthetic combat organism model able to provide the features of a TAG in a human-scale package. Gifted with an immense budget and requiring several years of research, the ‘Warrior’ Project produced the AR-1 prototype. A Lhost biosynthetic body, it contained enhanced artificial musculature, cybernetic micro-engines in all joints and a solidly reinforced skeleton, twice as dense as that of a human, composed of laminated calcium and TitaniumSupra®. All of this was controlled by a dual-control nervous system, accelerated and improved by experimental wetware, and shielded by subtle armored protection for both vital and non vital areas. A perfect body and a superb combat machine in human form. Nevertheless, attempts to download real personality Cubes to it were fruitless. The human brain was incapable of managing all the information supplied by the AR-1 Lhost body. ALEPH solved the problem by creating a new artificial personality, able to control the prototype. To give AR-1 an identity, the greatest warrior in history was needed. And it was Homer who provided it: Achilles, the irascible hero.
 
