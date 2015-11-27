@@ -4,6 +4,9 @@
 
 “The situation, in short, is this. I have just destroyed your escape module. You are trapped inside here with me. I am Achilles. And you are dead already.” Achilles, Second Ghost Conflict. Unauthenticated record, probable origin: Nomads Black Propaganda.
 
+
+«В кратце, ситуация следующая. Я только что уничтожил твой эвакуационный модуль. Ты заперт тут вместе со мной. Я Ахиллес. И ты уже мертв.» Ахиллес, Второй Фантомный Конфликт. 
+
 Achilles, the transliteration of Αχιλλεύς or Achileýs, was the greatest Greek hero, the finest of all warriors. Son of the Nereid, Thetis, and of Peleus, king of the Myrmidons of Phthia, in Thessaly, he was trained by a Phoenix and by the centaur Chiron. He took part in the Siege of Troy, in which his involvement was decisive, and was immortalized by Homer as the main character of the Iliad.
 
 Ахиллес (транслитерация от Αχιλλεύς или Achileýs) был величайшим греческим героем, самым блистательным из всех войнов. Сын морской нимфы  Фетиды и Пелея, властитель мирмидонов  Фтии в Фессалии, его тренировали Феникс и кентавр Хирон. Он принимал участие в осаде Трои, в которой его участие было решающим, и был увековечен Гомером как главный герой Илиады.
