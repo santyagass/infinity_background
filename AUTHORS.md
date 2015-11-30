@@ -13,5 +13,4 @@ Proofreading
 
 Черновики
 ------------
-* [Avicenna](avicenna.md)
 * [Achilles](achilles.md)
