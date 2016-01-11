@@ -14,4 +14,3 @@ Proofreading
 Черновики
 ------------
 * [Achilles](achilles.md)
-* [William Wallace](william_wallace.md)
