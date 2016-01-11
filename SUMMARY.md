@@ -6,4 +6,5 @@
 * [Miyamoto Mushashi](miyamoto_musashi.md)
 * [Saladin](saladin.md)
 * [Sun Tze](sun_tze.md)
+* [William Wallace](william_wallace.md)
 * [Благодарности](AUTHORS.md)
