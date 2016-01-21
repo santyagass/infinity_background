@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Часть 1. Воссозданные]
+* [[Часть 1. Воссозданные]]([chast_1_vossozdannie].md)
    * [Avicenna](avicenna.md)
    * [Joan of Arc](joan_of_arc.md)
    * [Miyamoto Mushashi](miyamoto_musashi.md)
