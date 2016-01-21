@@ -9,7 +9,8 @@
    * [Saladin](saladin.md)
    * [Sun Tze](sun_tze.md)
    * [William Wallace](william_wallace.md)
-* [Thamyris The Aoidos](part2/thamyris_the_aoidos.md)
+* [Часть 2. Герои]
+    * [Thamyris The Aoidos](part2/thamyris_the_aoidos.md)
 * [Благодарности](AUTHORS.md)
-* Часть 2. Герои
+
 
