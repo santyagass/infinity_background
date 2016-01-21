@@ -12,5 +12,4 @@
 * [Часть 2. Герои]
    * [Thamyris The Aoidos](part2/thamyris_the_aoidos.md)
 * [Благодарности](AUTHORS.md)
-* Часть 1. Воссозданные
 
