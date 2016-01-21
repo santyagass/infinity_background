@@ -1,9 +1,17 @@
-# Лхост
-LiveHost, клонированнное биосинтетическое тело.
-# LHost
+# Glossary
+
+## LHost
+
 LiveHost, клонированнное биосинтетическое тело.
 
-# S.S.S.
+## S.S.S.
+
 Секция Специальных Ситуаций
-# Special Situation Section
+
+## Special Situation Section
+
 Секция Специальных Ситуаций
+
+## Лхост
+
+LiveHost, клонированнное биосинтетическое тело.
