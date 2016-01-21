@@ -10,6 +10,5 @@
    * [Sun Tze](sun_tze.md)
    * [William Wallace](william_wallace.md)
 * [Thamyris The Aoidos](part2/thamyris_the_aoidos.md)
-* [Часть 2. Герои]
 * [Благодарности](AUTHORS.md)
 
