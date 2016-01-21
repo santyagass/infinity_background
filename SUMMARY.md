@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Access guide to the human sphere](access-guide-to-the-human-sphere.md)
 * [Часть 1. Воссозданные]
    * [Avicenna](avicenna.md)
    * [Joan of Arc](joan_of_arc.md)
@@ -9,6 +8,7 @@
    * [Saladin](saladin.md)
    * [Sun Tze](sun_tze.md)
    * [William Wallace](william_wallace.md)
+* [Access guide to the human sphere](access-guide-to-the-human-sphere.md)
 * [Часть 2. Герои]
    * [Thamyris The Aoidos](part2/thamyris_the_aoidos.md)
 * [Благодарности](AUTHORS.md)
