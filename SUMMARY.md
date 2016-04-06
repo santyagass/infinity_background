@@ -11,7 +11,7 @@
    * [William Wallace](william_wallace.md)
 * [Часть 2. Герои]
     * [Thamyris The Aoidos](part2/thamyris_the_aoidos.md)
-    * [Taucer](taucer.md)
+    * [Taucer](part2/taucer.md)
 * [Благодарности](AUTHORS.md)
 
 
