@@ -11,6 +11,7 @@
    * [William Wallace](william_wallace.md)
 * [Часть 2. Герои]
     * [Acmon](part2/acmon.md)
+    * [Nesaie](part2/nesaie.md)
     * [Taucer](part2/taucer.md)
     * [Thamyris The Aoidos](part2/thamyris_the_aoidos.md)
 
