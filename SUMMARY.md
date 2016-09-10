@@ -15,6 +15,7 @@
     * [Nesaie](part2/nesaie.md)
     * [Taucer](part2/taucer.md)
     * [Thamyris The Aoidos](part2/thamyris_the_aoidos.md)
+    * [Thrasymedes](part2/thrasymedes.md)
 
 * [Благодарности](AUTHORS.md)
 
