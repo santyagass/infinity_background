@@ -11,6 +11,7 @@
    * [William Wallace](william_wallace.md)
 * [Часть 2. Герои]
     * [Acmon](part2/acmon.md)
+    * [Atalanta](part2/atalanta.md)
     * [Hector](part2/hector.md)
     * [Nesaie](part2/nesaie.md)
     * [Taucer](part2/taucer.md)
