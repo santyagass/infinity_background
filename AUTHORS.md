@@ -3,6 +3,7 @@ Translators
 
 - Russian
     - Denis Darvish
+    - Костя Першин (раздел HVT)
 
 
 Proofreading

@@ -17,7 +17,11 @@
     * [Taucer](part2/taucer.md)
     * [Thamyris The Aoidos](part2/thamyris_the_aoidos.md)
     * [Thrasymedes](part2/thrasymedes.md)
-
+* [Часть 3. Особо важные персоны]
+    * [ALEPH High Functionary](hvt/aleph.md)
+    * [Midnight Sun Analyst](hvt/nomads.md)
+    * [Neoterran Corporate Executive](hvt/panoceania.md)
+    
 * [Благодарности](AUTHORS.md)
 
 
