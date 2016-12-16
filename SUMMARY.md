@@ -3,12 +3,12 @@
 * [Introduction](README.md)
 * [Access guide to the human sphere](access-guide-to-the-human-sphere.md)
 * [Часть 1. Воссозданные]
-   * [Avicenna](avicenna.md)
-   * [Joan of Arc](joan_of_arc.md)
-   * [Miyamoto Mushashi](miyamoto_musashi.md)
-   * [Saladin](saladin.md)
-   * [Sun Tze](sun_tze.md)
-   * [William Wallace](william_wallace.md)
+    * [Avicenna](avicenna.md)
+    * [Joan of Arc](joan_of_arc.md)
+    * [Miyamoto Mushashi](miyamoto_musashi.md)
+    * [Saladin](saladin.md)    
+    * [Sun Tze](sun_tze.md)
+    * [William Wallace](william_wallace.md)
 * [Часть 2. Герои]
     * [Acmon](part2/acmon.md)
     * [Atalanta](part2/atalanta.md)
