@@ -1,3 +1,8 @@
+---
+translators: Дарвиш Денис
+proofreading: Николай Ткачев
+---
+
 # Акмон.
 ![](acmon.jpg)
 

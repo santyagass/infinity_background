@@ -1,3 +1,8 @@
+---
+translators: Дарвиш Денис
+proofreading: Николай Ткачев
+---
+
 # Гектор.
 ![](hector.jpg)
 
