@@ -28,6 +28,22 @@
   * [Хассасин Бахрам. Секретное лезвие меча Аллаха](haqqislam/hassassin-bahram.md)
   * [Избирательное уничтожение](haqqislam/selective-destruction.md)
   * [Призрачные оперативники](haqqislam/ghost-operatives.md)
+* Paradiso
+  * [Прибывая на Парадизо](/paradiso_n2/arriving_2_paradiso.md)
+  * [Планетарные условия](/paradiso_n2/paradiso_environment.md)
+  * [Парадизо: Историческая справка](/paradiso_n2/paradiso_history.md)
+  * [Парадизо: первая атака](/paradiso_n2/paradiso_first_attack.md)
+  * [Фронт Парадизо: обновление статуса](/paradiso_n2/paradiso_front_update.md)
+  * [Тохаа: новая сила появляется на арене!](/paradiso_n2/tohaa_new_force.md)
+  * Секретная история Парадизо
+    * [Триумвират Тохаа – история теней](/paradiso_n2/secret_history/tohaa_shadows_history.md)
+    * [Восход Авроры](/paradiso_n2/secret_history/aurora_arise.md "Восход Авроры")
+    * [Падение](/paradiso_n2/secret_history/the_fall.md)
+    * [Великий обман](/paradiso_n2/secret_history/the_great_cheat.md)
+    * [Парадизо: точка отсчета](/paradiso_n2/secret_history/base_point.md)
+  * [Перекрестки Парадизо](/paradiso_n2/paradiso_crossings/README.md)
+    * [Часть 1: Вторжение в Niemandszone](/paradiso_n2/paradiso_crossings/invasion.md)
+    * [101. Извлечение Данных](/paradiso_n2/paradiso_crossings/101_data_extraction.md)
 * [\[Часть 1. Воссозданные\]](chast-1-vossozdannie.md)
   * [Avicenna](avicenna.md)
   * [Joan of Arc](joan_of_arc.md)
@@ -57,4 +73,6 @@
   * [Cypher](mercenary/cypher.md)
   * [Miyamoto Mushashi](miyamoto_musashi.md)
   * [Switch](mercenary/switch.md)
+
+
 
