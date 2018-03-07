@@ -28,6 +28,8 @@
   * [Хассасин Бахрам. Секретное лезвие меча Аллаха](haqqislam/hassassin-bahram.md)
   * [Избирательное уничтожение](haqqislam/selective-destruction.md)
   * [Призрачные оперативники](haqqislam/ghost-operatives.md)
+* Заклятые враги
+  * [Мимолетный альянс](/dire_foes/fleeting_alliance.md)
 * Paradiso
   * [Прибывая на Парадизо](/paradiso_n2/arriving_2_paradiso.md)
   * [Планетарные условия](/paradiso_n2/paradiso_environment.md)
@@ -37,7 +39,7 @@
   * [Тохаа: новая сила появляется на арене!](/paradiso_n2/tohaa_new_force.md)
   * Секретная история Парадизо
     * [Триумвират Тохаа – история теней](/paradiso_n2/secret_history/tohaa_shadows_history.md)
-    * [Восход Авроры](/paradiso_n2/secret_history/aurora_arise.md "Восход Авроры")
+    * [Восход Авроры](/paradiso_n2/secret_history/aurora_arise.md)
     * [Падение](/paradiso_n2/secret_history/the_fall.md)
     * [Великий обман](/paradiso_n2/secret_history/the_great_cheat.md)
     * [Парадизо: точка отсчета](/paradiso_n2/secret_history/base_point.md)
@@ -73,6 +75,4 @@
   * [Cypher](mercenary/cypher.md)
   * [Miyamoto Mushashi](miyamoto_musashi.md)
   * [Switch](mercenary/switch.md)
-
-
 
