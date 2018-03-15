@@ -2,6 +2,15 @@
 
 * [Introduction](README.md)
 * [Access guide to the human sphere](access-guide-to-the-human-sphere.md)
+* [Ariadna - Core Book](/ariadna-core-book/README.md)
+  * [Начальная стадия](/ariadna-core-book/nachalnaya-stadiya.md)
+  * [Фаза разобщения](/ariadna-core-book/faza_razobshenia.md)
+  * [Фаза объединения](/ariadna-core-book/faza_obedinenia.md)
+  * [Фаза контакта](/ariadna-core-book/faza_kontakta.md)
+  * [Родина. Казачьи поселения](/ariadna-core-book/rodina-kozaki.md)
+  * [СШАриадна. Американские поселения](/ariadna-core-book/us-ariadna.md)
+  * [Каледония. Шотландские поселения](/ariadna-core-book/kaledonia.md)
+  * [Меровингия. Французские поселения](/ariadna-core-book/merovingia.md)
 * [Haqqislam - Core Book](haqqislam-core-book/README.md)
   * [Основатель](haqqislam-core-book/founder.md)
   * [Рождение нового Ислама](haqqislam-core-book/birth-of-haqqislam.md)
@@ -75,4 +84,7 @@
   * [Cypher](mercenary/cypher.md)
   * [Miyamoto Mushashi](miyamoto_musashi.md)
   * [Switch](mercenary/switch.md)
+
+
+
 
