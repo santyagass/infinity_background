@@ -55,6 +55,8 @@
   * [Перекрестки Парадизо](/paradiso_n2/paradiso_crossings/README.md)
     * [Часть 1: Вторжение в Niemandszone](/paradiso_n2/paradiso_crossings/invasion.md)
     * [101. Извлечение Данных](/paradiso_n2/paradiso_crossings/101_data_extraction.md)
+* Настоящее
+  * [B4CKD00R кризис](/challenge/backdoor.md)
 * [\[Часть 1. Воссозданные\]](chast-1-vossozdannie.md)
   * [Avicenna](avicenna.md)
   * [Joan of Arc](joan_of_arc.md)
