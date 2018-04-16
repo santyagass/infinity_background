@@ -80,6 +80,7 @@
   * [Midnight Sun Analyst](hvt/nomads.md)
   * [Neoterran Corporate Executive](hvt/panoceania.md)
   * [Colonel Yevgueni Voronin](hvt/ariadna.md)
+  * [Fusilier Angus](hvt/angus.md)
 * [\[Часть 4. Наемники\]](mercenary/README.md)
   * [Avicenna](avicenna.md)
   * [Bit & KISS!](mercenary/bit-and-kiss.md)
