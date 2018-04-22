@@ -1,0 +1,7 @@
+For Translators
+
+Сайт с базой произношений, полезен при транслитерации имен и т.п.
+https://forvo.com/
+
+Гугловая платформа для переводов.
+https://translate.google.com/toolkit
