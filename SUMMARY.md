@@ -75,6 +75,8 @@
     * [Thrasymedes](part2/thrasymedes.md)
   * \[Панокеания\]
     * [Тони Макаяна](panoceania/tony.md)
+  * [Номады]
+    * [Zoe & Pi-Well](nomads/zoe-pi-well.md)
 * [\[Часть 3. Особо важные персоны\]](hvt/README.md)
   * [ALEPH High Functionary](hvt/aleph.md)
   * [Midnight Sun Analyst](hvt/nomads.md)
