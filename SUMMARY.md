@@ -59,6 +59,7 @@
   * Tagline
     * [Пролог](narrative_event/tagline/tagline-ch0.md)
     * [Глава 1:Операция "Сеть"](narrative_event/tagline/tagline-ch1.md)
+    * [Глава 2:Присоединение к TAGLINE](narrative_event/tagline/tagline-ch2.md)
   * [B4CKD00R кризис](/challenge/backdoor.md)
 * [\[Часть 1. Воссозданные\]](chast-1-vossozdannie.md)
   * [Avicenna](avicenna.md)
