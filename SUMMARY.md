@@ -61,6 +61,7 @@
     * [Глава 1:Операция "Сеть"](narrative_event/tagline/tagline-ch1.md)
     * [Глава 2:Присоединение к TAGLINE](narrative_event/tagline/tagline-ch2.md)
     * [Глава 3:Ловкий ход](narrative_event/tagline/tagline-ch3.md)
+    * [Глава 4:В поисках короля Артура](narrative_event/tagline/tagline-ch4.md)
   * [B4CKD00R кризис](/challenge/backdoor.md)
 * [\[Часть 1. Воссозданные\]](chast-1-vossozdannie.md)
   * [Avicenna](avicenna.md)
