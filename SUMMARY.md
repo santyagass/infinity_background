@@ -56,7 +56,7 @@
     * [Часть 1: Вторжение в Niemandszone](/paradiso_n2/paradiso_crossings/invasion.md)
     * [101. Извлечение Данных](/paradiso_n2/paradiso_crossings/101_data_extraction.md)
 * Настоящее
-  * Tagline
+  * [Tagline](challenge/tagline.md)
     * [Пролог](narrative_event/tagline/tagline-ch0.md)
     * [Глава 1:Операция "Сеть"](narrative_event/tagline/tagline-ch1.md)
     * [Глава 2:Присоединение к TAGLINE](narrative_event/tagline/tagline-ch2.md)
@@ -81,7 +81,7 @@
     * [Thrasymedes](part2/thrasymedes.md)
   * \[Панокеания\]
     * [Тони Макаяна](panoceania/tony.md)
-  * [Номады]
+  * \[Номады\]
     * [Zoe & Pi-Well](nomads/zoe-pi-well.md)
 * [\[Часть 3. Особо важные персоны\]](hvt/README.md)
   * [ALEPH High Functionary](hvt/aleph.md)
@@ -95,7 +95,4 @@
   * [Cypher](mercenary/cypher.md)
   * [Miyamoto Mushashi](miyamoto_musashi.md)
   * [Switch](mercenary/switch.md)
-
-
-
 
